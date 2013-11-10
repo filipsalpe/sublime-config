@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$this->${1:property} = \$${1:property};
+]]></content>
+    <description>Set class property</description>
+    <tabTrigger>$t=</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

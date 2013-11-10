@@ -6,6 +6,7 @@
 		"Phpcs",
 		"SublimeCodeIntel",
 		"SublimeGit",
-		"sublimelint"
+		"sublimelint",
+		"Theme - Soda"
 	]
 }

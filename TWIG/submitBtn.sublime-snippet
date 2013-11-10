@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ elements.submitBtn(${1:text}, ${2:icon}) }}
+]]></content>
+    <description>Submit button</description>
+    <tabTrigger>submitbtn</tabTrigger>
+    <scope>text.html.twig</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{{ dump(${1:variable}) }}
+]]></content>
+	<descroption>Dump</descroption>
+	<tabTrigger>dump</tabTrigger>
+	<scope>text.html.twig</scope>
+</snippet>

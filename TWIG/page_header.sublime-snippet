@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ elements.page_header(${1:title}, ${2:buttons}, ${3:subtitle}, ${4:left}, ${5:right}) }}
+]]></content>
+    <description>Page header</description>
+    <tabTrigger>pageheader</tabTrigger>
+    <scope>text.html.twig</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ elements.backLink(${1:url}) }}
+]]></content>
+    <description>Back to grid</description>
+    <tabTrigger>backlink</tabTrigger>
+    <scope>text.html.twig</scope>
+</snippet>

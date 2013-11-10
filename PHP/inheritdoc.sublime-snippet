@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * {@inheritdoc}
+ */
+]]></content>
+	<tabTrigger>inh</tabTrigger>
+	<description>Inheritdoc</description>
+	<scope>source.php</scope>
+</snippet>

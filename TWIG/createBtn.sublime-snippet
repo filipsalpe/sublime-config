@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ elements.createBtn(${1:text}, ${2:url}, ${3:id}) }}
+]]></content>
+    <description>Create button</description>
+    <tabTrigger>createbtn</tabTrigger>
+    <scope>text.html.twig</scope>
+</snippet>

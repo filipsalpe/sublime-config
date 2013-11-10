@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ elements.form_navbar(${1:tabs}, ${2:toggle}) }}
+]]></content>
+    <description>Form navbar</description>
+    <tabTrigger>formnavbar</tabTrigger>
+    <scope>text.html.twig</scope>
+</snippet>

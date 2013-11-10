@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1:Constructor}
+ *
+ * @param ${2:type} \$${3:variable}
+ */
+public function __construct(\$${3:variable})
+{
+    ${5}
+}
+]]></content>
+    <tabTrigger>constructor</tabTrigger>
+    <description>Constructor</description>
+    <scope>source.php</scope>
+</snippet>

@@ -1,6 +1,33 @@
 {
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_selector": "source, text, comment",
+	"auto_complete_with_fields": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"copy_with_empty_selection": false,
+	"default_line_ending": "unix",
+	"detect_slow_plugins": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"rulers":
+	[
+        80,
+		120
+	],
+	"shift_tab_unindent": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
 }

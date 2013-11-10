@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ elements.deleteLink(${1:url}, ${2:message}, ${3:title}) }}
+]]></content>
+    <description>Delete link</description>
+    <tabTrigger>deletelink</tabTrigger>
+    <scope>text.html.twig</scope>
+</snippet>

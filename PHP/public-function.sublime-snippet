@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:Description}
+ *
+ * @param ${2:type} ${3:parameter}
+ *
+ * @return ${4:type} ${5:variable}
+ */
+public function ${6:functionName}(${3:parameter})
+{
+	${7:// code}
+}
+]]></content>
+	<description>public function</description>
+	<tabTrigger>pbf</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

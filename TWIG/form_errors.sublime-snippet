@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ elements.form_errors(${1:form}) }}
+]]></content>
+    <description>Form errors</description>
+    <tabTrigger>formerrors</tabTrigger>
+    <scope>text.html.twig</scope>
+</snippet>

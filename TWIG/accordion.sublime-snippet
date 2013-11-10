@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ elements.accordion({ '${1:Title}': ${2:content} }, ${3:counter}) }}
+]]></content>
+    <description>Accordion</description>
+    <tabTrigger>accordion</tabTrigger>
+    <scope>text.html.twig</scope>
+</snippet>

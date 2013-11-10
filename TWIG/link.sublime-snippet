@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ elements.link(${1:text}, ${2:url}, {${3:opts}}) }}
+]]></content>
+    <description>Link</description>
+    <tabTrigger>link</tabTrigger>
+    <scope>text.html.twig</scope>
+</snippet>
