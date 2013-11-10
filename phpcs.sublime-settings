@@ -1,0 +1,31 @@
+{
+    "show_debug": true,
+    "phpcs_execute_on_save": true,
+    "phpcs_show_errors_on_save": true,
+    "phpcs_show_gutter_marks": true,
+    "phpcs_outline_for_errors": true,
+    "phpcs_show_errors_in_status": true,
+    "phpcs_show_quick_panel": true,
+    "phpcs_php_prefix_path": "",
+    "phpcs_commands_to_php_prefix": [],
+    "phpcs_sniffer_run": true,
+    "phpcs_command_on_save": true,
+    "phpcs_additional_args": {
+        "--standard": "Symfony2",
+        "-n": "",
+        "--ignore": "vendor"
+    },
+    "php_cs_fixer_on_save": true,
+    "php_cs_fixer_show_quick_panel": true,
+    "php_cs_fixer_executable_path": "/usr/local/bin/php-cs-fixer",
+    "php_cs_fixer_additional_args": {
+        "--level": "all"
+    },
+    "phpcs_linter_run": true,
+    "phpcs_linter_command_on_save": true,
+    "phpcs_php_path": "",
+    "phpcs_linter_regex": "(?P<message>.*) on line (?P<line>\\d+)",
+    "phpmd_run": true,
+    "phpmd_command_on_save": true,
+    "phpmd_executable_path": "/home/philip/git/pim/app/Resources/jenkins/phpmd_akeneo"
+}
