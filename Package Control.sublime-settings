@@ -2,6 +2,8 @@
 	"installed_packages":
 	[
 		"Abacus",
+		"Behat",
+		"Gherkin (Cucumber) Formatter",
 		"GitGutter",
 		"Phpcs",
 		"SideBarEnhancements",
