@@ -6,11 +6,15 @@
 		"Emmet",
 		"Gherkin (Cucumber) Formatter",
 		"GitGutter",
+		"Package Control",
 		"Phpcs",
+		"PHPUnit",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeGit",
-		"sublimelint",
-		"Theme - Soda"
+		"SublimeLinter",
+		"SymfonyCommander",
+		"Theme - Soda",
+		"Twig"
 	]
 }
