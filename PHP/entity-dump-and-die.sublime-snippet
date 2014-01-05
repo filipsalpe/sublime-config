@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+var_dump(\Doctrine\Common\Util\Debug(\$${1:variable})); ${2:die;}
+]]></content>
+    <tabTrigger>edd</tabTrigger>
+    <desccription>Dump entity and die</desccription>
+    <scope>source.php</scope>
+</snippet>

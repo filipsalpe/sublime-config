@@ -3,23 +3,40 @@
 	[
 		"Abacus",
 		"Behat",
+		"DocBlockr",
+		"Doctrine Snippets",
 		"Emmet",
 		"Generic Config",
 		"Gherkin (Cucumber) Formatter",
 		"Git",
 		"GitGutter",
 		"Github Tools",
+		"GotoLastEdit",
+		"GotoOpenFile",
+		"Jade",
 		"JSHint",
 		"Keymaps",
+		"LESS",
+		"Missing Palette Commands",
+		"Nodejs",
 		"Package Control",
 		"Phpcs",
 		"PhpDoc",
 		"PHPUnit",
+		"PHPUnit Completions",
+		"Restructured Text (RST) Snippets",
+		"RstPreview",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeLinter",
 		"Theme - Soda",
-		"Twig"
+		"Theme - Spacegray",
+		"Twig",
+		"Twitter Recess"
+	],
+	"repositories":
+	[
+		"https://github.com/airtoxin/sublime-achievement"
 	]
 }
